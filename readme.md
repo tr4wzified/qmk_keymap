@@ -1,2 +1,1 @@
-# The Thimo Planck Layout
-
+# qmk keymap
